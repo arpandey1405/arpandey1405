@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600" height="300" alt="Coding Knight" />
+  <img src="https://portfolio-64pf-6ms4sitrc-arpans-projects-9bf2646c.vercel.app/assets/aboutImage-25889262.png" width="600" height="300" alt="Coding Knight" />
 </div>
 
 <h1 align="center">👋 Hey, I'm Arpan Dey</h1>
