@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYwYWZ3b2JsZTZ6ZHR3eTA0OW81bGhobzRpZ3A3MGs5amxxZW1yayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300" alt="Coding Knight" />
+  <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" width="600" height="300" alt="Coding Knight" />
 </div>
 
 <h1 align="center">👋 Hey, I'm Arpan Dey</h1>
