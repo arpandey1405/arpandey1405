@@ -50,10 +50,13 @@
 
 ## 🎭 Hobbies & Interests
 
-- 🎨 Digital art and design  
-- 📚 Reading and exploring new tech trends  
-- 🖋️ Writing and sharing ideas  
+💻 Building web and app projects
 
+📊 Exploring AI, machine learning, and data science
+
+📖 Learning new technologies and problem-solving in DSA
+
+📝 Writing and sharing tech ideas & project insights
 ---
 
 ## 📬 Connect With Me
