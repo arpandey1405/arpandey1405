@@ -21,21 +21,49 @@
 
 | **Languages** | **Frameworks & Tools** | **Core Concepts** |
 |---------------|-------------------------|-------------------|
-| Python, C, C++, Java, Kotlin, SQL, JavaScript | Next.js, Tailwind CSS, React, Microsoft SQL Server | Data Structures & Algorithms, OOP, ML Basics |
+| Python, C, C++, Java, Kotlin, SQL, JavaScript | React, Next.js, Tailwind CSS, Microsoft SQL Server | Data Structures & Algorithms, OOP, ML Basics |
 
 ---
 
 ## 🚀 Projects  
 
-### 🔹 Predictive Maintenance of Military Engines  
-- Developed a **machine learning model** to estimate Remaining Useful Life (RUL) of turbofan engines  
-- Implemented **EDA, feature engineering, and Random Forest regression** achieving R² = 0.70  
-- Built **data pipelines & visualizations** for better interpretability  
+### 🔹 Gamified Education Platform  
+**_Full-Stack Web Application for Engaging Learning_**  
+- Built a **gamified learning platform** with XP, levels, quizzes, and dashboards to enhance student engagement  
+- Implemented **JWT authentication**, **RESTful APIs** using Go (Gin), and **MongoDB** for scalable data storage  
+- Developed a **responsive frontend** using **React + Vite** for a seamless experience  
 
-### 🔹 Personal Portfolio Website  
+**Tech Stack:** React, Go (Gin), MongoDB  
+
+---
+
+### 🔹 Stock Sentiment Analysis using News Headlines  
+**_NLP-Based Stock Market Prediction_**  
+- Built an **NLP model** to predict stock market trends from daily financial news headlines  
+- Used **text preprocessing**, **CountVectorizer**, and **Random Forest classifier**  
+- Achieved **86% accuracy** (Precision = 0.88, Recall = 0.86, F1 = 0.86)  
+
+**Tech Stack:** Python, scikit-learn, Jupyter Notebook  
+
+---
+
+### 🔹 Predictive Maintenance of Military Engines  
+**_AI-Based Equipment Life Prediction_**  
+- Developed a **machine learning model** to estimate Remaining Useful Life (RUL) of turbofan engines  
+- Designed preprocessing pipeline with **scaling, correlation maps, and label generation**  
+- Trained **Random Forest regression** achieving R² = 0.70 and MAE = 26.66  
+
+**Tech Stack:** Python, Jupyter Notebook  
+
+---
+
+### 🔹 Arpan’s Portfolio Website  
+**_Personal Web Development Project_**  
 - Built a **responsive portfolio** using **HTML, CSS, JavaScript, React**  
 - Focused on **UI/UX design, accessibility, and smooth navigation**  
-- Showcases **projects, skills, and achievements** in a neat layout  
+- Showcases **projects, skills, and achievements** in a clean layout  
+
+**Tech Stack:** HTML, CSS, JavaScript, React  
 
 ---
 
