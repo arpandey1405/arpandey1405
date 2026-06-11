@@ -5,6 +5,21 @@
 <h1 align="center">👋 Hey, I'm Arpan Dey</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | Data Engineering Enthusiast</h3>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1hXx3v0EGzLsfNA-MbAW9vCLkLrBsAkUX/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  <a href="mailto:arpand255@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arpan-dey-1405">
+    <img src="https://img.shields.io/badge/LinkedIn-Arpan_Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/arpandey1405">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 💻 About Me
@@ -20,8 +35,8 @@
 
 ## 🔧 Skills
 
-| **Category** | **Technologies** |
-|-------------|------------------|
+| Category | Technologies |
+|-----------|-------------|
 | **Languages** | Python, Java, SQL, C/C++, Go |
 | **AI / ML** | PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, Generative AI, Agentic AI, LLM Fine-Tuning |
 | **ML Concepts** | Deep Learning, NLP, Computer Vision, Transfer Learning, Time-Series Analysis, Multimodal Fusion |
@@ -34,10 +49,10 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🔹 Multimodal Deepfake Detection System
-**_AI-Powered Deepfake Detection Across Image, Video & Text Modalities_**
+**AI-Powered Deepfake Detection Across Image, Video & Text Modalities**
 
 - Built an end-to-end multimodal deepfake detection system achieving **95–97% fusion accuracy**
 - Implemented **ResNet18 CNN + BiLSTM** architecture for video-based temporal inconsistency detection
@@ -49,7 +64,7 @@
 ---
 
 ### 🔹 Wearable AI Driver Drowsiness Detection
-**_Deep Learning-Based Driver Alertness Monitoring_**
+**Deep Learning-Based Driver Alertness Monitoring**
 
 - Classified driver states (**Alert, Fatigue, Drowsy**) using physiological sensor signals
 - Developed **BiLSTM and BiGRU with Attention Mechanism**
@@ -61,7 +76,7 @@
 ---
 
 ### 🔹 Dialogue Text Summarizer
-**_LLM-Based Abstractive Conversation Summarization_**
+**LLM-Based Abstractive Conversation Summarization**
 
 - Fine-tuned **T5-Small** on the SAMSum dataset
 - Implemented beam-search decoding and Hugging Face Trainer pipeline
@@ -73,7 +88,7 @@
 ---
 
 ### 🔹 Stock Sentiment Analysis using News Headlines
-**_NLP-Based Stock Market Prediction_**
+**NLP-Based Stock Market Prediction**
 
 - Built a sentiment classification pipeline using financial news headlines
 - Applied bigram vectorization and Random Forest classification
@@ -85,7 +100,7 @@
 ---
 
 ### 🔹 Predictive Maintenance of Military Engines
-**_Remaining Useful Life (RUL) Prediction_**
+**Remaining Useful Life (RUL) Prediction**
 
 - Predicted turbofan engine RUL using **21+ sensor features**
 - Developed a complete preprocessing and feature engineering pipeline
@@ -97,10 +112,11 @@
 
 ## 🎓 Education
 
-### 🎓 Vellore Institute of Technology (VIT), Chennai
+### 🎓 Vellore Institute of Technology, Chennai
+
 **B.Tech – Computer Science & Engineering (Cyber Physical Systems)**  
 📅 Aug 2023 – Present  
-📊 **CGPA: 8.50 / 10**
+📊 **CGPA: 8.49 / 10**
 
 ### 🏫 Bankura Christian Collegiate School
 
@@ -114,12 +130,12 @@
 ### 🥇 LeetCode
 
 - Solved **130+ DSA problems** across arrays, trees, graphs, recursion, and dynamic programming
-- Strengthened algorithmic problem-solving and coding skills
+- Continuously improving algorithmic problem-solving skills
 
 ### 🎖️ Apna College – Alpha 6.0
 
-- Completed intensive DSA curriculum in Java
-- Covered advanced topics including trees, graphs, recursion, and dynamic programming
+- Completed intensive Data Structures & Algorithms curriculum in Java
+- Applied concepts directly to competitive programming and project development
 
 ---
 
@@ -133,15 +149,15 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpandey1405&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpandey1405&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpandey1405&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpandey1405&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpandey1405&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpandey1405&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -149,7 +165,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpandey1405&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arpandey1405&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -157,25 +173,35 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpandey1405&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpandey1405&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1hXx3v0EGzLsfNA-MbAW9vCLkLrBsAkUX/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 📬 Connect With Me
 
-<p align="left">
-<a href="mailto:arpand255@gmail.com">
-<img src="https://img.shields.io/badge/Email-arpand255@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="mailto:arpand255@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arpand255@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/arpan-dey-1405">
-<img src="https://img.shields.io/badge/LinkedIn-Arpan_Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/arpan-dey-1405">
+    <img src="https://img.shields.io/badge/LinkedIn-Arpan_Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/arpandey1405">
-<img src="https://img.shields.io/badge/GitHub-arpandey1405-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/arpandey1405">
+    <img src="https://img.shields.io/badge/GitHub-arpandey1405-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
