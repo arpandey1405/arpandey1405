@@ -3,89 +3,137 @@
 </div>
 
 <h1 align="center">👋 Hey, I'm Arpan Dey</h1>
-<h3 align="center">Aspiring Developer | AI & Web Enthusiast | Lifelong Learner</h3>
+<h3 align="center">AI/ML Engineer | Full-Stack Developer | Data Engineering Enthusiast</h3>
 
 ---
 
-## 💻 About Me  
+## 💻 About Me
 
-- 🎓 B.Tech student in **Computer Science & Engineering (Cyber Physical Systems)** at VIT Chennai  
-- 🤖 Passionate about **Machine Learning, Data Science, and Full-Stack Development**  
-- 🛠️ Love solving problems with **DSA and clean code**  
-- 🌱 Currently exploring **Next.js, Tailwind CSS, and backend systems**  
-- 🚀 Always eager to **learn, experiment, and innovate**  
-
----
-
-## 🔧 Skills  
-
-| **Languages** | **Frameworks & Tools** | **Core Concepts** |
-|---------------|-------------------------|-------------------|
-| Python, C, C++, Java, Kotlin, SQL, JavaScript | React, Next.js, Tailwind CSS, Microsoft SQL Server | Data Structures & Algorithms, OOP, ML Basics |
+- 🎓 B.Tech student in **Computer Science & Engineering (Cyber Physical Systems)** at **VIT Chennai**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Intelligent Automation**
+- 🧠 Experienced in **Deep Learning, NLP, Computer Vision, Multimodal AI, and LLM Fine-Tuning**
+- ☁️ Exploring **AWS Cloud, Data Engineering Pipelines, and AI-enabled Software Engineering**
+- 💡 Love solving real-world problems using **Data Structures, Algorithms, and scalable software systems**
+- 🚀 Always eager to learn, build, and contribute to impactful technology projects
 
 ---
 
-## 🚀 Projects  
+## 🔧 Skills
 
-### 🔹 Gamified Education Platform  
-**_Full-Stack Web Application for Engaging Learning_**  
-- Built a **gamified learning platform** with XP, levels, quizzes, and dashboards to enhance student engagement  
-- Implemented **JWT authentication**, **RESTful APIs** using Go (Gin), and **MongoDB** for scalable data storage  
-- Developed a **responsive frontend** using **React + Vite** for a seamless experience  
-
-**Tech Stack:** React, Go (Gin), MongoDB  
-
----
-
-### 🔹 Stock Sentiment Analysis using News Headlines  
-**_NLP-Based Stock Market Prediction_**  
-- Built an **NLP model** to predict stock market trends from daily financial news headlines  
-- Used **text preprocessing**, **CountVectorizer**, and **Random Forest classifier**  
-- Achieved **86% accuracy** (Precision = 0.88, Recall = 0.86, F1 = 0.86)  
-
-**Tech Stack:** Python, scikit-learn, Jupyter Notebook  
+| **Category** | **Technologies** |
+|-------------|------------------|
+| **Languages** | Python, Java, SQL, C/C++, Go |
+| **AI / ML** | PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, Generative AI, Agentic AI, LLM Fine-Tuning |
+| **ML Concepts** | Deep Learning, NLP, Computer Vision, Transfer Learning, Time-Series Analysis, Multimodal Fusion |
+| **Backend** | Spring Boot, FastAPI, Gin (Go) |
+| **Data Engineering** | ETL Pipelines, Data Preprocessing, Feature Engineering, AWS S3, AWS RDS |
+| **Databases** | MongoDB, Microsoft SQL Server |
+| **Cloud & DevOps** | AWS EC2, AWS S3, AWS RDS, Git, GitHub, CI/CD |
+| **Libraries** | NumPy, Pandas, OpenCV, SciPy, Matplotlib, Seaborn |
+| **Core CS** | OOP, Data Structures & Algorithms, Competitive Programming |
 
 ---
 
-### 🔹 Predictive Maintenance of Military Engines  
-**_AI-Based Equipment Life Prediction_**  
-- Developed a **machine learning model** to estimate Remaining Useful Life (RUL) of turbofan engines  
-- Designed preprocessing pipeline with **scaling, correlation maps, and label generation**  
-- Trained **Random Forest regression** achieving R² = 0.70 and MAE = 26.66  
+## 🚀 Projects
 
-**Tech Stack:** Python, Jupyter Notebook  
+### 🔹 Multimodal Deepfake Detection System
+**_AI-Powered Deepfake Detection Across Image, Video & Text Modalities_**
 
----
+- Built an end-to-end multimodal deepfake detection system achieving **95–97% fusion accuracy**
+- Implemented **ResNet18 CNN + BiLSTM** architecture for video-based temporal inconsistency detection
+- Developed a weighted late-fusion mechanism with curriculum learning and class-weighted optimization
+- Evaluated on **FaceForensics++, Celeb-DF, and DFDC benchmarks**
 
-### 🔹 Arpan’s Portfolio Website  
-**_Personal Web Development Project_**  
-- Built a **responsive portfolio** using **HTML, CSS, JavaScript, React**  
-- Focused on **UI/UX design, accessibility, and smooth navigation**  
-- Showcases **projects, skills, and achievements** in a clean layout  
-
-**Tech Stack:** HTML, CSS, JavaScript, React  
+**Tech Stack:** Python, PyTorch, ResNet18, BiLSTM, OpenCV, TF-IDF
 
 ---
 
-## 🎓 Education  
+### 🔹 Wearable AI Driver Drowsiness Detection
+**_Deep Learning-Based Driver Alertness Monitoring_**
 
-- **B.Tech, Computer Science & Engineering (Cyber Physical Systems)**  
-  VIT Chennai (2023 – Present) | **CGPA: 8.43**  
-- **Class 12** – Bankura Christian Collegiate School (2023) | **89%**  
-- **Class 10** – Bankura Christian Collegiate School (2021) | **94.6%**  
+- Classified driver states (**Alert, Fatigue, Drowsy**) using physiological sensor signals
+- Developed **BiLSTM and BiGRU with Attention Mechanism**
+- Achieved **91.11% accuracy** using BiGRU architecture
+- Applied signal preprocessing using **Butterworth Filtering** and sliding-window techniques
 
----
-
-## 🎭 Hobbies & Interests  
-
-- 💻 Developing **web & app projects**  
-- 📊 Exploring **AI, ML, and data-driven solutions**  
-- 📖 Problem-solving in **DSA & algorithms**  
-- 📝 Writing and sharing **tech insights & learnings**  
+**Tech Stack:** Python, PyTorch, BiLSTM, BiGRU, Attention Mechanism
 
 ---
 
-## 📊 GitHub Stats & Languages  
+### 🔹 Dialogue Text Summarizer
+**_LLM-Based Abstractive Conversation Summarization_**
+
+- Fine-tuned **T5-Small** on the SAMSum dataset
+- Implemented beam-search decoding and Hugging Face Trainer pipeline
+- Trained for 6 epochs with warmup scheduling
+- Deployed as a **FastAPI REST service** for real-time summarization
+
+**Tech Stack:** Python, Hugging Face Transformers, T5, FastAPI
+
+---
+
+### 🔹 Stock Sentiment Analysis using News Headlines
+**_NLP-Based Stock Market Prediction_**
+
+- Built a sentiment classification pipeline using financial news headlines
+- Applied bigram vectorization and Random Forest classification
+- Achieved **86% accuracy** with **F1 Score = 0.86**
+- Used date-based train-test splitting to avoid look-ahead bias
+
+**Tech Stack:** Python, NLP, scikit-learn, Jupyter Notebook
+
+---
+
+### 🔹 Predictive Maintenance of Military Engines
+**_Remaining Useful Life (RUL) Prediction_**
+
+- Predicted turbofan engine RUL using **21+ sensor features**
+- Developed a complete preprocessing and feature engineering pipeline
+- Achieved **R² = 0.70** and **MAE = 26.66 cycles**
+
+**Tech Stack:** Python, Random Forest, Data Engineering
+
+---
+
+## 🎓 Education
+
+### 🎓 Vellore Institute of Technology (VIT), Chennai
+**B.Tech – Computer Science & Engineering (Cyber Physical Systems)**  
+📅 Aug 2023 – Present  
+📊 **CGPA: 8.50 / 10**
+
+### 🏫 Bankura Christian Collegiate School
+
+- **Class XII:** 89%
+- **Class X:** 94%
+
+---
+
+## 🏆 Achievements
+
+### 🥇 LeetCode
+
+- Solved **130+ DSA problems** across arrays, trees, graphs, recursion, and dynamic programming
+- Strengthened algorithmic problem-solving and coding skills
+
+### 🎖️ Apna College – Alpha 6.0
+
+- Completed intensive DSA curriculum in Java
+- Covered advanced topics including trees, graphs, recursion, and dynamic programming
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Agentic AI Systems
+- 🧠 Advanced LLM Fine-Tuning
+- ☁️ Cloud Data Platforms
+- ⚡ AI-Powered SaaS Applications
+- 🔥 Next.js & Modern Full-Stack Development
+
+---
+
+## 📊 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpandey1405&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
@@ -98,7 +146,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arpandey1405&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
@@ -106,7 +154,7 @@
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpandey1405&theme=radical&hide_border=true" />
@@ -114,12 +162,26 @@
 
 ---
 
-## 📬 Connect With Me  
+## 📬 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Email-arpand255@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arpand255@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpan_Dey-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dey-1405)  
-[![GitHub](https://img.shields.io/badge/GitHub-arpandey1405-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arpandey1405)  
+<p align="left">
+<a href="mailto:arpand255@gmail.com">
+<img src="https://img.shields.io/badge/Email-arpand255@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arpan-dey-1405">
+<img src="https://img.shields.io/badge/LinkedIn-Arpan_Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arpandey1405">
+<img src="https://img.shields.io/badge/GitHub-arpandey1405-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-<h3 align="center">Thanks for visiting! 🚀</h3>
+<h3 align="center">🚀 Building AI-powered products, one project at a time!</h3>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
